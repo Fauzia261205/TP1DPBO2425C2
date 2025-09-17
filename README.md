@@ -52,12 +52,10 @@ JAVA
 ![Cari Program](Dokumentasi/java_cari.png)
 ![Keluar Program](Dokumentasi/java_keluar.png)
 
-
 PHP
 ![Tambah Data](Dokumentasi/php_tambah.png)
 ![Update Data](Dokumentasi/php_update.png)
 ![Hapus Data](Dokumentasi/php_hapus.png)
-![Tampilkan Data](Dokumentasi/php_tampilkan.png)
 ![Cari data](Dokumentasi/php_cari.png)
 
 
