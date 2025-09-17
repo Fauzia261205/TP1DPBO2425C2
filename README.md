@@ -30,4 +30,4 @@ B. Alur Program (Flow Kode)
 
 C. Sceenshot Output
 CPP
-![Tambah Data]()
+![Tambah Data](Dokumentasi/cpp_tambah.png)
