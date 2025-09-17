@@ -31,4 +31,10 @@ B. Alur Program (Flow Kode)
 C. Sceenshot Output
 
 CPP
-- ![Tambah Data](Dokumentasi/cpp_tambah.png)
+![Tambah Data](Dokumentasi/cpp_tambah.png)
+![Update Data](Dokumentasi/cpp_update.png)
+![Hapus Data](Dokumentasi/cpp_hapus.png)
+![Tampilkan Data](Dokumentasi/cpp_tampilkan.png)
+![Cari data](Dokumentasi/cpp_cari.png)
+
+
