@@ -35,6 +35,30 @@ CPP
 ![Update Data](Dokumentasi/cpp_update.png)
 ![Hapus Data](Dokumentasi/cpp_hapus.png)
 ![Tampilkan Data](Dokumentasi/cpp_tampilkan.png)
-![Cari data](Dokumentasi/cpp_cari.png)
+![Keluar Program](Dokumentasi/cpp_keluar.png)
+
+PYTHON
+![Tambah Data](Dokumentasi/py_tambah.png)
+![Update Data](Dokumentasi/py_update.png)
+![Hapus Data](Dokumentasi/py_hapus.png)
+![Tampilkan Data](Dokumentasi/py_tampilkan.png)
+![Keluar Program](Dokumentasi/py_keluar.png)
+
+JAVA
+![Tambah Data](Dokumentasi/java_tambah.png)
+![Update Data](Dokumentasi/java_update.png)
+![Hapus Data](Dokumentasi/java_hapus.png)
+![Tampilkan Data](Dokumentasi/java_tampilkan.png)
+![Cari Program](Dokumentasi/java_cari.png)
+![Keluar Program](Dokumentasi/java_keluar.png)
+
+
+PHP
+![Tambah Data](Dokumentasi/php_tambah.png)
+![Update Data](Dokumentasi/php_update.png)
+![Hapus Data](Dokumentasi/php_hapus.png)
+![Tampilkan Data](Dokumentasi/php_tampilkan.png)
+![Cari data](Dokumentasi/php_cari.png)
+
 
 
