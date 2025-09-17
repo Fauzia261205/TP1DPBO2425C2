@@ -31,15 +31,10 @@ B. Alur Program (Flow Kode)
 C. Sceenshot Output
 
 - CPP
-Menambahkan data produk
 ![Tambah Data](Dokumentasi/cpp_tambah.png)
-Update data produk
 ![Update Data](Dokumentasi/cpp_update.png)
-Hapus data produk berdasar kode
 ![Hapus Data](Dokumentasi/cpp_hapus.png)
-Menampilkan Semua data
 ![Tampilkan Data](Dokumentasi/cpp_tampilkan.png)
-Keluar program
 ![Keluar Program](Dokumentasi/cpp_keluar.png)
 
 - PYTHON
