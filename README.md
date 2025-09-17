@@ -1,8 +1,8 @@
 # TP1DPBO2425C2
 
-/*Saya Fauzia Rahma Nisa mengerjakan Tugas Praktikum 1 dalam mata kuliah Desain dan Pemrograman 
+Saya Fauzia Rahma Nisa mengerjakan Tugas Praktikum 1 dalam mata kuliah Desain dan Pemrograman 
 Berdasarkan Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah 
-dispesifikasikan. Aamiin.*/
+dispesifikasikan. Aamiin.
 
 A. Desain Kode
 
@@ -26,4 +26,4 @@ B. Alur Program (Flow Kode)
   tidak ditemukan, menampilkan pesan error.
 - Keluar: Program menghentikan loop utama dan menampilkan pesan selesai, lalu program berakhir.
 
-   Setiap operasi CRUD selalu menampilkan pesan konfirmasi untuk memberi feedback kepada pengguna, misalnya “Data produk berhasil ditambahkan” atau “Produk tidak ditemukan”. Dengan alur ini, program memungkinkan pengguna untuk mengelola data produk elektronik secara interaktif dalam satu sesi.
+   Setiap operasi CRUD selalu menampilkan pesan konfirmasi untuk memberi feedback kepada pengguna, misal “Data produk berhasil ditambahkan” atau “Produk tidak ditemukan”. Dengan alur ini, program memungkinkan pengguna untuk mengelola data produk elektronik secara interaktif dalam satu sesi.
