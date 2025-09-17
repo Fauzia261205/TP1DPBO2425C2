@@ -29,5 +29,6 @@ B. Alur Program (Flow Kode)
    Setiap operasi CRUD selalu menampilkan pesan konfirmasi untuk memberi feedback kepada pengguna, misal “Data produk berhasil ditambahkan” atau “Produk tidak ditemukan”. Dengan alur ini, program memungkinkan pengguna untuk mengelola data produk elektronik secara interaktif dalam satu sesi.
 
 C. Sceenshot Output
+
 CPP
-![Tambah Data](Dokumentasi/cpp_tambah.png)
+- ![Tambah Data](Dokumentasi/cpp_tambah.png)
