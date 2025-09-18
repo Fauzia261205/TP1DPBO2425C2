@@ -57,7 +57,7 @@ C. Sceenshot Output
 ![Tambah Data](Dokumentasi/php_tambah2.png)
 ![Update Data](Dokumentasi/php_update.png)
 ![Update Data](Dokumentasi/php_update2.png)
-![Hapus Data](Dokumentasi/php_hapus.png)
+![Hapus Data](Dokumentasi/php_delete.png)
 ![Cari data](Dokumentasi/php_cari.png)
 
 
