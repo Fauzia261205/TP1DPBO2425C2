@@ -54,9 +54,9 @@ C. Sceenshot Output
 
 - PHP
 ![Tambah Data](Dokumentasi/php_tambah.png)
-![Tambah Data](Dokumentasi/php_tambah (2).png)
+![Tambah Data](Dokumentasi/php_tambah(2).png)
 ![Update Data](Dokumentasi/php_update.png)
-![Update Data](Dokumentasi/php_update (2).png)
+![Update Data](Dokumentasi/php_update(2).png)
 ![Hapus Data](Dokumentasi/php_hapus.png)
 ![Cari data](Dokumentasi/php_cari.png)
 
